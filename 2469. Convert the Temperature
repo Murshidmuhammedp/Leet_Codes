@@ -1,0 +1,7 @@
+var convertTemperature = function (celsius) {
+    var arr = [];
+    var kelvin = celsius + 273.15;
+    Fahrenheit = celsius * 1.80 + 32.00
+    arr.push(kelvin,Fahrenheit)
+    return arr
+};
