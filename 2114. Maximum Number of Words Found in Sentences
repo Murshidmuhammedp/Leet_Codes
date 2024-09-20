@@ -1,0 +1,33 @@
+1st Method
+-----------
+
+var mostWordsFound = function (sentences) {
+    var count = 1
+    let value=0
+    for (let i = 0; i < sentences.length; i++) {
+        for (let j = 0; j < sentences[i].length; j++) {
+            if (sentences[i][j] == " ") {
+                count += 1;
+            }
+        }
+        if(value<count){
+            value=count
+        }
+        count=1
+    }
+    return value
+};
+
+2nd Method
+------------
+
+var mostWordsFound = function (sentences) {
+    let value = 0
+    for (let i = 0; i < sentences.length; i++) {
+        let b = sentences[i].split(' ')
+        if (value < b.length) {
+            value = b.length
+        }
+    }
+    return value
+};
