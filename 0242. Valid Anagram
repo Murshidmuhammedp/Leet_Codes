@@ -1,0 +1,19 @@
+var isAnagram = function (s, t) {
+    var a = s.split('').sort().join('')
+    var b = t.split('').sort().join('')
+    return a == b;
+};
+
+
+
+Example 1:
+
+Input: s = "anagram", t = "nagaram"
+
+Output: true
+
+Example 2:
+
+Input: s = "rat", t = "car"
+
+Output: false
