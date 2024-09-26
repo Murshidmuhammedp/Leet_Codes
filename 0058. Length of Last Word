@@ -1,0 +1,16 @@
+var lengthOfLastWord = function(s) {
+    const a = s.trim().split(' ').reverse()
+    return a[0].length
+};
+
+
+
+Example 1:
+
+Input: s = "Hello World"
+Output: 5
+
+Example 2:
+
+Input: s = "   fly me   to   the moon  "
+Output: 4
