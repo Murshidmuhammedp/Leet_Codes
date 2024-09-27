@@ -1,7 +1,0 @@
-var isPalindrome = function (x) {
-    var y = x.toString().split('').reverse().join('')
-    return y == x 
-};
-
-Input: x = 121
-Output: true
