@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
