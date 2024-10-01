@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0415-add-strings) |
+| [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
