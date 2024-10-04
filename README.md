@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0283-move-zeroes) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1791-richest-customer-wealth](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1791-richest-customer-wealth) |
+| [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
+| [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
 ## Sorting
