@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
