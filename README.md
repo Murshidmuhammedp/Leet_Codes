@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2727-number-of-senior-citizens](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 | [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2727-number-of-senior-citizens](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
 ## Sorting
