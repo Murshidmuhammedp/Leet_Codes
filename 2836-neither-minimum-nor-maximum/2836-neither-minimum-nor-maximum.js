@@ -3,7 +3,5 @@
  * @return {number}
  */
 var findNonMinOrMax = function (nums) {
-    if (nums.length <= 2) return -1
-    nums.sort((a, b) => a - b)
-    return nums[1]
+    return nums.length <= 2 ? -1 : nums.sort((a, b) => a - b)[1]
 };
