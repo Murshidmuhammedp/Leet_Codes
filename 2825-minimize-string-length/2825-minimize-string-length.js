@@ -3,5 +3,5 @@
  * @return {number}
  */
 var minimizedStringLength = function (s) {
-    return [...new Set(s.split(''))].length
+    return [...new Set(s)].length
 };
