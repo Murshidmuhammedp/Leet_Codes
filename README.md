@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1848-sum-of-unique-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1848-sum-of-unique-elements) |
+| [2825-minimize-string-length](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
