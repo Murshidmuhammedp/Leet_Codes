@@ -5,9 +5,9 @@
  */
 var targetIndices = function (nums, target) {
     const arr = [];
-    const a = nums.sort((a, b) => a - b)
-    for (let i = 0; i < a.length; i++) {
-        if (a[i] == target) arr.push(i)
+    nums.sort((a, b) => a - b)
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] == target) arr.push(i)
     }
     return arr
 };
