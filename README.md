@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2727-number-of-senior-citizens](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2727-number-of-senior-citizens) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
