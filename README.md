@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2128-reverse-prefix-of-word) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -131,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
