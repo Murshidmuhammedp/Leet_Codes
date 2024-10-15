@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0283-move-zeroes) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1791-richest-customer-wealth](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1791-richest-customer-wealth) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -109,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1848-sum-of-unique-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
