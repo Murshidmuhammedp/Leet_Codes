@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2383-add-two-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-convert-date-to-binary](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3194-find-words-containing-character) |
+| [3567-convert-date-to-binary](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
