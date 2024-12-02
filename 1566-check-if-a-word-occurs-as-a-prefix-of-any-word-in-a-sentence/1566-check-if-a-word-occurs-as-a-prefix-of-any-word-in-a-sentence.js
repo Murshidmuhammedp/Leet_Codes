@@ -6,8 +6,7 @@
 var isPrefixOfWord = function (sentence, searchWord) {
     const b = sentence.split(" ")
     for (i = 0; i < b.length; i++) {
-        const c = (b[i].startsWith(searchWord));
-        if (c) return i + 1;
+        if (b[i].startsWith(searchWord)) return i + 1
     }
     return -1
 };
