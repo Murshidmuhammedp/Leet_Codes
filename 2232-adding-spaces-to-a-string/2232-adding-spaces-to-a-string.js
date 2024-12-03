@@ -6,14 +6,10 @@
 var addSpaces = function (s, spaces) {
     var z = ""
     var a = 0
-    for (i = 0; i < s.length; i++) {
-        if (i == spaces[a]) {
-            z += " "
-            z += s[i]
-            a++
-        } else {
-            z += s[i]
-        }
+    for (let i = 0; i < spaces.length; i++) {
+        z += s.slice(a, spaces[i]) + " ";
+        a = spaces[i]
     }
+    z += s.slice(a);
     return z
 };
