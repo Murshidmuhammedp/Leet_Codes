@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0326-power-of-three) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
