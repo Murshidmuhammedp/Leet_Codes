@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0283-move-zeroes) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
+| [1580-shuffle-the-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1944-truncate-sentence) |
