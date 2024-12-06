@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2481-strictly-palindromic-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
