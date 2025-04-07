@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3778-transform-array-by-parity](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1848-sum-of-unique-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1848-sum-of-unique-elements) |
+| [3778-transform-array-by-parity](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
