@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2481-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
