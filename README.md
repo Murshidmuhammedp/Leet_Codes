@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Murshidmuhammedp/Leet_Codes/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
